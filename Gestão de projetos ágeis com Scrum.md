@@ -1,6 +1,6 @@
 ### Scrum
 
-Framework utilizado para gestão de projetos ágeis, com entregas incrementais ao cliente a cada mês, repetindo-se o cliclo SCRUM.
+​	Framework utilizado para gestão de projetos ágeis, com entregas incrementais ao cliente a cada mês, repetindo-se o cliclo SCRUM.
 
 **Pilares do SCRUM:**				
 
@@ -30,9 +30,15 @@ Framework utilizado para gestão de projetos ágeis, com entregas incrementais a
 
 
 
-**Especificações do Product Owner (PO):**
+**Papéis e responsabilidades do Product Owner (PO):**
 
+* representante da área de negócios
+* define as funcionalidades do software
+* não é um comitê
+* prioriza as funcionalidades de acordo com o valor do negócio
+* agregar maior valor possível ao produto
 
+​	PO é o profissional que tem a visão do que será desenvolvido, as necessidades a serem atendidas e o 	público utilizador dos serviços e os objetivos a serem alcançados.
 
 
 
