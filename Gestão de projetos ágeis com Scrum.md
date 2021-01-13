@@ -26,7 +26,7 @@
 
 
 
-**Sprint> **é o principal evento do SCRUM, ocorre no máximo em 30 dias, composta pelo planejamento da sprint, reuniões diárias (daily meeting), (timebox de 15 minutos, com o que será feito, o que está sendo feito e o que já foi feito(quadro kanban)), revisão do sprint (review), (time dev apresenta para o po o trabalho feito (timebox de 4 horas)), retrospectiva da Sprint (reunião da equipe para lições aprendidas (deve haver transparência(timebox de 3 horas)). . Todos participam dela.
+**Sprint >**é o principal evento do SCRUM, ocorre no máximo em 30 dias, composta pelo planejamento da sprint, reuniões diárias (daily meeting), (timebox de 15 minutos, com o que será feito, o que está sendo feito e o que já foi feito(quadro kanban)), revisão do sprint (review), (time dev apresenta para o po o trabalho feito (timebox de 4 horas)), retrospectiva da Sprint (reunião da equipe para lições aprendidas (deve haver transparência(timebox de 3 horas)). . Todos participam dela.
 
 
 
