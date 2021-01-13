@@ -38,7 +38,38 @@
 * prioriza as funcionalidades de acordo com o valor do negócio
 * agregar maior valor possível ao produto
 
-​	PO é o profissional que tem a visão do que será desenvolvido, as necessidades a serem atendidas e o 	público utilizador dos serviços e os objetivos a serem alcançados.
+​	PO é o profissional que tem a visão do que será desenvolvido, as necessidades a serem atendidas e o público utilizador dos serviços e os objetivos a serem alcançados.
 
 
+**Analisando escopo e definindo prioridades:**
+
+Planejar as sprints para que haja realeses sempre com entrega de valor nas mesmas.
+
+**Product Backlog:**
+
+É composto por:
+
+1. **Épicos >** incremento sem muito detalhamento, ajuda a direcionar aos caminhos a serem seguidos.
+
+2. **Estórias>** um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e suas regras de negócio.
+
+   (épico > estória > tarefa)
+
+**Modelo de estória:** (é preferível que haja padronização do modelo)
+
+* Nome
+* Descrição
+* Regras de Negócio
+* Tela
+* KPI
+* Tagueamento
+* Critérios de aceite
+
+
+
+**Cliente ou stakeholder:**
+
+É uma pessoa ou um grupo de pessoas que legitima as ações de uma organização e que tem um papel direto ou indireto na gestão e resultados dessa mesma organização. 
+
+*Ex:* funcionários de uma empresa, gestores, gerentes, proprietários, fornecedores, concorrentes, ONGs, clientes, Estado, sindicatos, etc.
 
